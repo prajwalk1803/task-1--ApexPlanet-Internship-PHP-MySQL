@@ -1,0 +1,6 @@
+# Node/PHP/etc ignores
+.DS_Store
+/vendor/
+/node_modules/
+/.env
+*.log
